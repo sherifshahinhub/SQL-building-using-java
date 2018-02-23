@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<travel>
+<rowID>
+<name>varchar</name>
+<city>varchar</city>
+<country>varchar</country>
+</rowID>
+<rowID>
+<name>Sherif</name>
+<city>Alex</city>
+<country>Egy</country>
+</rowID>
+<rowID>
+<name>Mohammed</name>
+<city>Cairo</city>
+<country>Egy</country>
+</rowID>
+</travel>

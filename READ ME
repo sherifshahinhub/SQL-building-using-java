@@ -1,0 +1,41 @@
+- This project is a Simple XML DBMS .
+- This project was done by the team of:
+   (Mostafa Tarek Ibrahim - Omar Ahmed Foad- Sherif Mohammed Abd-alrahman - Shabab Sheta)
+- To know the syntax of SQL you need to visit w3schools page http://www.w3schools.com/sql/.
+- Example:
+	SQL>>create database db;
+	Data Base Created
+	Syntax is valid
+	
+	SQL>>use database db;
+	Syntax is valid
+	
+	SQL>>create table travel (name varchar , city varchar , country varchar);
+	Table Created
+	Syntax is valid
+	
+	SQL>>insert into travel (name, city, country) values (Sherif, Alex, Egy);
+	Syntax is valid
+	
+	SQL>>insert into travel (name, city, country) values (Mohammed, Cairo, Egy);
+	Syntax is valid
+	
+	SQL>>select * from travel;
+	+----------+-------+---------+
+	| name     | city  | country |
+	+----------+-------+---------+
+	| Sherif   | Alex  | Egy     |
+	| Mohammed | Cairo | Egy     |
+	+----------+-------+---------+
+	Syntax is valid
+	
+	SQL>>select * from travel where city='Alex';
+	+--------+------+---------+
+	| name   | city | country |
+	+--------+------+---------+
+	| Sherif | Alex | Egy     |
+	+--------+------+---------+
+	Syntax is valid
+	
+	SQL>>
+  

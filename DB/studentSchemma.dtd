@@ -1,0 +1,5 @@
+<!ELEMENT student (rowID)*>
+<!ELEMENT rowID (id,name,gpa)>
+<!ELEMENT id (#PCDATA)*>
+<!ELEMENT name (#PCDATA)*>
+<!ELEMENT gpa (#PCDATA)*>
