@@ -3,6 +3,12 @@
    (Mostafa Tarek Ibrahim - Omar Ahmed Foad- Sherif Mohammed Abd-alrahman - Shabab Sheta)
 - To know the syntax of SQL you need to visit w3schools page http://www.w3schools.com/sql/.
 *- The Main function is in src/Controller/Main
+**- You Have to import the jar files 'for the json files' into the Referenced Libraries by:
+    In your Eclipse environment :
+    1-Right click on the project folder i.e SQL
+    2-click Build Path
+    3-click Add External Archives
+    4-select the jar files
 - Example:
 	SQL>>create database db;
 	Data Base Created
