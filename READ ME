@@ -2,6 +2,7 @@
 - This project was done by the team of:
    (Mostafa Tarek Ibrahim - Omar Ahmed Foad- Sherif Mohammed Abd-alrahman - Shabab Sheta)
 - To know the syntax of SQL you need to visit w3schools page http://www.w3schools.com/sql/.
+*- The Main function is in src/Controller/Main
 - Example:
 	SQL>>create database db;
 	Data Base Created
